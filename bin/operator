@@ -1,0 +1,1 @@
+((열연판* 열연강판* 열연강재* 열연강* 열간압연강* 열연도금강*) OR ((열연* 열간*) ADJ2 (강 강판* 강재* 박판* 판재* 철판*)) OR ((HOT ADJ ROLL*) ADJ (STEEL* SHEET* STRIP* PLAT*))) and (베이나이트* 배이나이트* 베이니트* 배이니트* ((배이* 베이*) ADJ (나이트* 니트*)) bainit* (저온* adj2 (조직* OR 변태*)) (low adj temperature adj (transform or structure*)))
